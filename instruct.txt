@@ -1,0 +1,11 @@
+    INSTRUCTIONS
+
+The goal is to score as much as possiblewhile avoiding the obstacles.	
+
+-Player initially has 5 lives.
+-Collect hearts to gain lives.
+-Press spacebar to jump, p to pause.
+-Press up,left,right,down for movement.
+
+
+Press Right click to return to menu
