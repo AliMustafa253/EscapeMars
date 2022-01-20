@@ -28,5 +28,10 @@ The goal is to score as much as possible while avoiding the obstacles.
 
 Press Right click to return to menu
 
+## Game Screenshot
+
+![Screenshot 2022-01-21 005926](https://user-images.githubusercontent.com/91639328/150412999-033b48c3-9bfe-4700-9aff-d7c75e63bcc1.png)
+
+
 ## Contact
 Email alimustafa2599@gmail.com for queries.
